@@ -12,6 +12,7 @@ Replace scaffold index.html with a clean, mobile-friendly static one-pager (HTML
 - Area: Tacoma / Puyallup / nearby
 - When: evenings after 6 and Saturdays
 - Phone: 253-319-3049
+- Email: cardellitsupport@gmail.com
 - Services with prices listed in AGENTS.md
 - What you do NOT do (mounts, hardwired electrical, 24/7 on-call)
 - Simple contact CTA (call/text)
