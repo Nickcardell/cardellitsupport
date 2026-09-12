@@ -1,11 +1,13 @@
 # Domain
 
+Brand: **Cardell IT Support** (not “tech support”).
+
 Target: `cardellitsupport.com`
 
-Status: pending registration (Sign + Nick). Fallback candidates: `cardellit.com`, `cardelltechsupport.com`.
+Status: pending registration (Sign + Nick). Fallback domains only if needed: `cardellit.com` (avoid names with “tech support” in the brand — domain string is not the brand).
 
 When purchased:
-1. Add file `CNAME` with contents `cardellitsupport.com`
-2. Point DNS A/AAAA or CNAME per GitHub Pages custom domain docs
+1. Keep `CNAME` as `cardellitsupport.com`
+2. Point DNS per GitHub Pages custom domain docs
 3. Enable HTTPS in repo Pages settings
-4. Create mailbox if launching email (do not put Gmail on the public site)
+4. Public contact email is `cardellitsupport@gmail.com` + Quo `253-319-3049`
