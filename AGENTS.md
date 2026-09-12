@@ -44,3 +44,9 @@ Public page starts as `index.html`. Keep it small.
 ## PRs
 
 Prefer a branch and PR against `main`. Keep diffs small. Build the real marketing page in Claude Code from this foundation; do not paste CES exhibit copy.
+
+
+## Public contact (locked)
+- Phone: Quo 253-319-3049
+- Email: cardellitsupport@gmail.com
+- Not nick@cardellexhibits.com, not nacardell@gmail.com.
