@@ -26,7 +26,7 @@ Public page starts as `index.html`. Keep it small.
   - New laptop setup + file move — $149
   - Printer won\'t print — $99
   - Hourly after flats: $99 first hour, then $89/hr
-- Phone: 253-319-3049 (Quo). Email: propose `nick@cardellitsupport.com` once mail exists; until then do not invent an inbox — ask Sign/Manager.
+- Phone: 253-319-3049 (Quo). Email: `cardellitsupport@gmail.com` (locked 11 Sep 2026). Do not put nacardell@gmail.com or nick@cardellexhibits.com on this site.
 - Never mention AI, models, Qwen, Grok, Codex in public copy.
 - No PetroCard, no exhibit/CES services, no client names from CES work.
 - No wall mounts, hardwired electrical, low-voltage wall runs, security-camera installs, or 24/7 on-call as offered services.
