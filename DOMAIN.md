@@ -14,3 +14,7 @@ After purchase:
 4. Leave mail records alone if any exist
 
 HOLD BEFORE CARD: Nick keys payment. Domain-only 1 year. Receipt → Finance as Cardell IT Support.
+
+## Temporary Pages URL (until Porkbun paid)
+Custom domain held. Share: https://cardellexhibits.github.io/cardellitsupport/
+Re-add CNAME + DNS after domain is owned.
